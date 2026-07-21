@@ -27,3 +27,4 @@ Thumbs.db
 Task145_ForkliftPedestrianCollisionRiskDetection/Outputs/
 Task145_ForkliftPedestrianCollisionRiskDetection/Inputs/*.mp4
 Task145_ForkliftPedestrianCollisionRiskDetection/Code/synthetic_test.mp4
+Task_128_RoadAccidentDetectionSystem/models/epoch61.pt.zip
